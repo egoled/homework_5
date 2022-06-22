@@ -1,0 +1,15 @@
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.csproj.AssemblyReference.cache
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.AssemblyInfoInputs.cache
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.AssemblyInfo.cs
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.csproj.CoreCompileInputs.cache
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\bin\Debug\net6.0\Exercise_1.exe
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\bin\Debug\net6.0\Exercise_1.deps.json
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\bin\Debug\net6.0\Exercise_1.runtimeconfig.json
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\bin\Debug\net6.0\Exercise_1.dll
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\bin\Debug\net6.0\Exercise_1.pdb
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.dll
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\refint\Exercise_1.dll
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.pdb
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\Exercise_1.genruntimeconfig.cache
+E:\РАЗРАБОТЧИК\С sharp\June20_homework\Exercise_1\obj\Debug\net6.0\ref\Exercise_1.dll
